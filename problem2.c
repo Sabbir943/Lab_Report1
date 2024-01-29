@@ -9,6 +9,7 @@ int main()
     //input radious from user.
     float radious,pi;
     pi=3.1416;
+    //scanning radious
     printf("Enter radious:");
     scanf("%f",&radious);
     printf("Perimeter of the Circle = %f\n",2*pi*radious);
