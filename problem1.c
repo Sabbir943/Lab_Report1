@@ -6,12 +6,7 @@ Mobile : 99-9999999999*/
 #include<stdio.h>
 int main()
 {
-    char name[50]="Alexandra Abramov";
-    char DOB[50]="July 14, 1975";
-    
-    
-    char Mobile[50]=" 99-9999999999";
-    printf("Name :%s\n",name);
-    printf("DOB :%s\n",DOB);
-    printf("Mobile :%s\n",Mobile);
+    //Directly print your name,DOB and Mobile.
+    printf("Name : Alexandra Abramov\nDOB :July 14, 1975\nMobile : 99-9999999999\n");
+    return 0;
 }
